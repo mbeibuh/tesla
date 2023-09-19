@@ -413,3 +413,121 @@ git add .
 git status
 git log
 git push pay master https://github.com/mbeibuh/paypal
+clear
+git remote -v
+git branch
+git switch dev
+git checkout dev
+git checkout -b dev
+git branch
+clear
+git status
+ls
+echo "this is a paypal" >> README.md
+git status
+git add .
+git status
+cat reedme.md
+cat README.md
+echo "my work" >> README.md
+git status
+cat README.md
+git commit -a -m "first commit for paypal"
+git log
+git switch mster
+git checkout -b master
+git branch
+git checkout master
+git branch 
+git diff
+git diff master
+git diff dev
+git merge dev
+git add .
+git merge dev
+git log
+ls
+cat mbei
+cat blessed.me
+cat list.text
+git branh
+git branch
+git commit -m "love"
+git switch dev
+git branch
+ls
+echo "Amen" >> list.text
+cat list.text
+git commit -m "love"
+git add .
+git commit -a -m "love"
+git diff master
+git merge master
+git log
+git merge dev
+git remote -v
+git push pay --all
+clear
+git branch
+git pull pay stage
+git branch stage
+git branch
+ls
+cat README.md
+echo "my first commit" README.md
+ echo "my first commit" >> README.md
+cat README.md
+git branch
+git switch branch stage
+ git switch stage
+ls
+echo " application must be tested" >> README.md
+cat README.md
+git branch
+git commit -a -m "README.me updated"
+git status
+git log
+clear
+git push pay stage
+clear
+git pull pay master
+cd tesla/
+cd /tesla
+cd tesla
+ls
+cd billions
+cd blessed.me
+cd mbei
+ls
+cat mbei
+clear
+echo paul >> mbei
+ls
+cat mbei
+git remote -v
+git pull pay master
+git pull pay dev
+git pull pay main
+git pull pay stage
+git log
+clear
+git fetch origin master
+git fetch pay main
+git fetch origin main
+cat eu
+clear
+git branch -d bug_fixed
+git branch
+exit
+clear
+git branch
+clear
+git tag paypal-v1.0.2
+git tag
+git push pay tagpay pal-v1.0.2
+git push pay tag pay pal-v1.0.2
+ git push pay tag paypal-v1.0.2
+clear
+git clone https://github.com/mbeibuh/scripting
+ls
+cat scripting
